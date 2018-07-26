@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257516212575",
+    "firebase_url": "https://predictive-keep-149713.firebaseio.com",
+    "project_id": "predictive-keep-149713",
+    "storage_bucket": "predictive-keep-149713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257516212575:android:75b8634b3780be97",
+        "android_client_info": {
+          "package_name": "com.stockpredictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257516212575-okbb03tb6haav9ib76rkkh6mvgrreluv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stockpredictor",
+            "certificate_hash": "5dceac4f0619b6d5b579540b6b3efea872adf536"
+          }
+        },
+        {
+          "client_id": "257516212575-4bpdjrdjbi7q58k8j2t0ahoq4cldro7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV4IITy5Lhv-PWXrUliOWKMjsM953On-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257516212575-4bpdjrdjbi7q58k8j2t0ahoq4cldro7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
